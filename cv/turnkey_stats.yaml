@@ -1,3 +1,4 @@
+author: transformers
 builds:
   x86_ort:
     all_build_stages:
@@ -208,3 +209,4 @@ system_info:
   - yarl==1.9.2
   - zipp==3.17.0
   - tkscale==0.0.0
+task: Generative_AI
